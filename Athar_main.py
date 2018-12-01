@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Nov 23 17:09:10 2018
-@author: athar and nooshin 
+@author: athar & nooshin & Arman
 """
 from __future__ import print_function
 import os
